@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Prueba Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Prueba
+  m_TableCollectionNameGuidString: 854fce51028c5d149b6e31c2cb810568
+  m_Entries:
+  - m_Id: 181196861440
+    m_Key: Player Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243096399872
+    m_Key: Room Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 537502986240
+    m_Key: Create Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1670569046016
+    m_Key: 'Join Room
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1711471898624
+    m_Key: Enter Room Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1754455126016
+    m_Key: Enter Player Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790056378368
+    m_Key: Quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9638907785216
+    m_Key: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10492595449856
+    m_Key: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10840487800832
+    m_Key: 'Select The Correct Answer
+
+      Starting Game Soon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11413366812672
+    m_Key: How do you do?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11824974835712
+    m_Key: Question 1 / 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11866582331392
+    m_Key: Start New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11976439541760
+    m_Key: Leave Session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12089249542144
+    m_Key: Winner's Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12159042760704
+    m_Key: 1st!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12255775993856
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12319298727936
+    m_Key: 2nd Place Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12567903514624
+    m_Key: 2nd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12585754472448
+    m_Key: 3rd Place Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12720072863744
+    m_Key: 3rd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22372479184896
+    m_Key: Game Is Ready To Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077857517088768
+    m_Key: 'Room:'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 70714191568699416
+  references:
+    version: 2
+    RefIds:
+    - rid: 70714191568699416
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1794170899727

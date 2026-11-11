@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prueba_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 854fce51028c5d149b6e31c2cb810568, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 181196861440
+    m_Localized: Player Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243096399872
+    m_Localized: Room Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 537502986240
+    m_Localized: Create Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1711471898624
+    m_Localized: Enter Room Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1754455126016
+    m_Localized: Enter Player Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790056378368
+    m_Localized: Quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1670569046016
+    m_Localized: 'Join Room
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9638907785216
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10492595449856
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10840487800832
+    m_Localized: 'Select The Correct Answer
+
+      Starting Game Soon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11413366812672
+    m_Localized: How do you do?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11824974835712
+    m_Localized: Question 1 / 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11866582331392
+    m_Localized: Start New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11976439541760
+    m_Localized: Leave Session
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12089249542144
+    m_Localized: Winner's Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12159042760704
+    m_Localized: 1st!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12255775993856
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12319298727936
+    m_Localized: 2nd Place Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12567903514624
+    m_Localized: 2nd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12585754472448
+    m_Localized: 3rd Place Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12720072863744
+    m_Localized: 3rd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22372479184896
+    m_Localized: Game Is Ready To Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077857517088768
+    m_Localized: 'Room:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
